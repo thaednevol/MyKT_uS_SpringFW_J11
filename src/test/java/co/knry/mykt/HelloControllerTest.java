@@ -1,4 +1,4 @@
-package com.example.springboot;
+package co.knry.mykt;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

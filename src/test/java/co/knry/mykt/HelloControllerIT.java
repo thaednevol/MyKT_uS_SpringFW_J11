@@ -1,4 +1,4 @@
-package com.example.springboot;
+package co.knry.mykt;
 
 import static org.assertj.core.api.Assertions.*;
 

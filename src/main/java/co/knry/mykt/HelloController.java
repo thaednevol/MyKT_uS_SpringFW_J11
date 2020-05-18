@@ -1,4 +1,4 @@
-package com.example.springboot;
+package co.knry.mykt;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
